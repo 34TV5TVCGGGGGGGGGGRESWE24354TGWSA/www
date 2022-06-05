@@ -2,9 +2,9 @@
 #DO not bupass my comand 
 #Plz DO not bupass my comand
 import os
-os.system("https://m.facebook.com/bk4human")
-os.system("pip install requests")
 os.system('clear')
+os.system("pip install requests")
+os.system("https://m.facebook.com/bk4human")
 def Zeek():
     os.system('clear')
     print (logo)
@@ -73,13 +73,8 @@ if pil in ["01", "1"]:
 
 elif pil in ["02", "2"]:
         os.system('git clone https://github.com/Shuvo-BBHH/paidfree4')
-        os.system('cd paidfree4')
-        os.system('python2 BD6.py')
-        time.sleep(2)
-        print(" ")
-        n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
-        time.sleep(2)
-        Zeek()
+        os.system('cd paidfree4 && python2 BD6.py')
+        
         
 
 elif pil in ["3"]:
@@ -261,20 +256,20 @@ elif pil in ["30"]:
 elif pil in ["31"]:
         os.system('git clone https://github.com/Toxic-Noob/EmailTools')
         os.system('cd EmailTools')
-        os.system('pip install -r requirements.txt')
-        os.system('python e-tools.py')
+        os.system('pip install -r requirements.txt && python e-tools.py')
+        
      
 elif pil in ["32"]:
         os.system('git clone https://github.com/MAHDI-Shuvo/1')
-        os.system('cd 1')
-        os.system('python2 mahdi.py')
+        os.system('cd 1 && python2 mahdi.py')
+        
     
 elif pil in ["33"]:
         os.system('git clone https://github.com/Shuvo-BBHH/taw')
-        os.system('cd taw')
-        os.system('python2 mh.py')
+        os.system('cd taw && python2 mh.py')
+        
      
 elif pil in ["34"]:
         os.system('git clone https://github.com/MAHDI-Shuvo/tansbdall')
-        os.system('cd tansbdall')
-        os.system('python main.py')
+        os.system('cd tansbdall && python main.py')
+        
