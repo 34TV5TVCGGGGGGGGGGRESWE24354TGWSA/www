@@ -2,7 +2,7 @@
 #DO not bupass my comand 
 #Plz DO not bupass my comand
 import os
-os.system('clear')
+os.system("https://m.facebook.com/bk4human")
 os.system("pip install requests")
 os.system('clear')
 def Zeek():
