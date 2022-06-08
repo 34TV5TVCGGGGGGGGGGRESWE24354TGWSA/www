@@ -4,10 +4,10 @@
 import os
 os.system('clear')
 os.system("pip install requests")
-os.system("https://m.facebook.com/bk4human")
+os.system("xdg-open https://m.facebook.com/bk4human")
 def Zeek():
     os.system('clear')
-    print (logo)
+    os.system("xdg-open https://m.facebook.com/bk4human")
     print (47 )* '\x1b[1;92m-' 
     os.system('clear')
 print("""\33[93m███╗   ███╗ █████╗██╗  ██╗██████╗ ██╗     \n\033[91m███╗ ████║██╔══██╗██║  ██║██╔══██╗██║    \n\033[1;32m██╔████╔██║███████║███████║██║  ██║██║   \n\33[97m██║╚██╔╝██║██╔══██║██╔══██║██║  ██║██║    \n\033[96m██║ ╚═╝ ██║██║  ██║██║  ██║██████╔╝██║    \n\033[0;35m╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝\033[0m 
@@ -15,7 +15,7 @@ print("""\33[93m███╗   ███╗ █████╗██╗  ██�
 \33[93mAUTHOR :\033[91m[MAHDI HASAN] SHUVO
 \033[0;33mGITHUB : \033[1;97mMAHDI HASAN
 \033[1;31mFb ; https://web.facebook.com/mahdihasanshuvo.nove
-\033[1;37mFb ; https://web.facebook.com/m.mahdi.80
+\033[1;37mFb ; https://web.facebook.com/bk4human
 \033[1;36mWHATAPP:01887408882
 \033[1;33mLIVE in Sylhet (Read in class 10)
 \033[42mNo NEED GF \033[0;31mIF YOU LOVE ME I LOVE YOU IF U HAT ME I FUCK YOU 
