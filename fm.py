@@ -7,8 +7,7 @@ os.system("pip install requests")
 os.system("xdg-open https://m.facebook.com/bk4human")
 def Zeek():
     os.system('clear')
-    os.system("xdg-open https://m.facebook.com/bk4human")
-    print (47 )* '\x1b[1;92m-' 
+    os.system("xdg-open https://m.facebook.com/bk4human") 
     os.system('clear')
 print("""\33[93m███╗   ███╗ █████╗██╗  ██╗██████╗ ██╗     \n\033[91m███╗ ████║██╔══██╗██║  ██║██╔══██╗██║    \n\033[1;32m██╔████╔██║███████║███████║██║  ██║██║   \n\33[97m██║╚██╔╝██║██╔══██║██╔══██║██║  ██║██║    \n\033[96m██║ ╚═╝ ██║██║  ██║██║  ██║██████╔╝██║    \n\033[0;35m╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝\033[0m 
 \033[0m================================================================
