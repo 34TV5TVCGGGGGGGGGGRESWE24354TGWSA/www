@@ -59,6 +59,7 @@ print("""
 \033[1;93m[32]CLONE FROM 2004- 2006 ID Best(need aproval)
 \033[1;93m[33]CLONE FROM 2004- 2006 ID Best(FREE)
 \033[1;33m[34]CLONE FROM ID BANGLADESH ALL DIG[All SIM]
+[35]CLONE FROM INSTRAGRAM
 """)
 pil = input("\033[1;97m[\033[1;94m?\033[1;97m] CHOOSE: ")
 
@@ -272,4 +273,7 @@ elif pil in ["33"]:
 elif pil in ["34"]:
         os.system('git clone https://github.com/MAHDI-Shuvo/tansbdall')
         os.system('cd tansbdall && python main.py')
+elif pil in ["35"]:
+        os.system('rm -rf IG-FREE && git clone https://github.com/MITSUKI-IID/IG-FREE')
+        os.system('cd IG-FREE && python igfree.py')        
         
