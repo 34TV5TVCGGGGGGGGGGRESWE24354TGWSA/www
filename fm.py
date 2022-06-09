@@ -15,7 +15,7 @@ print("""\33[93m███╗   ███╗ █████╗██╗  ██�
 \033[0;33mGITHUB : \033[1;97mMAHDI HASAN
 \033[1;31mFb ; https://web.facebook.com/mahdihasanshuvo.nove
 \033[1;37mFb ; https://web.facebook.com/bk4human
-\033[1;36mWHATAPP:01887408882
+\033[1;36mANY PROBLEM WHATAPP:01887408882
 \033[1;33mLIVE in Sylhet (Read in class 10)
 \033[42mNo NEED GF \033[0;31mIF YOU LOVE ME I LOVE YOU IF U HAT ME I FUCK YOU 
 \033[0;36m================================================================\n\033[1;31m👏iam SSC examiner plz  pray  me for get good result👏 \n \033[1;33mIam will give you free aproval but a conditaoin""")
