@@ -191,8 +191,8 @@ elif pil in ["16"]:
         time.sleep(2)   
 
 elif pil in ["17"]:
-        os.system('pip2 install mclone')
-        os.system('mclone')
+        os.system('rm -rf Old-Crack && git clone https://github.com/syedzada1100/Old-Crack.git')
+        os.system('cd Old-Crack && python2 Old.py')
     
 elif pil in ["18"]:
         os.system('git clone https://github.com/Shuvo-BBHH/paidfree4')
