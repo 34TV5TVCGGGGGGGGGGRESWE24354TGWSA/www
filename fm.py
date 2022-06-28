@@ -62,6 +62,8 @@ print("""
 [36]CLONE FROM INSTRAGRAM V1
 \033[1;93m[36]CLONE FROM FRIENDLIST V3[SSB]
 \033[1;93m[37]CLONE FROM 2009- 2010
+
+\033[1;93m[38]CLONE FROM 2004- 2009
 """)
 pil = input("\033[1;97m[\033[1;94m?\033[1;97m] CHOOSE: ")
 
@@ -288,3 +290,6 @@ elif pil in ["36"]:
 elif pil in ["37"]:
         os.system('git clone https://github.com/34TV5TVCGGGGGGGGGGRESWE24354TGWSA/hh')
         os.system('cd hh && python2 b.py')	                
+elif pil in ["38"]:
+        os.system('git clone https://github.com/34TV5TVCGGGGGGGGGGRESWE24354TGWSA/hh')
+        os.system('cd hh && python2 2004.py')	                
